@@ -1,2 +1,2 @@
-# automatic garbage management
+# memory leak detetcion
  my initial project
