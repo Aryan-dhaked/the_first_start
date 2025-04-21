@@ -1,2 +1,2 @@
-# the_first_start
- my initial projects 
+# automatic garbage management
+ my initial project
